@@ -1,0 +1,3 @@
+# SET YOUR PACKAGES HERE
+boto3==1.1
+pandas==2.3
